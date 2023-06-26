@@ -1,0 +1,62 @@
+h1{
+    font-size: 36px;
+    line-height: 36px;
+    font-family: Roboto;
+}
+
+h2{
+    margin-top: 40px;
+    font-size: 32px;
+    line-height: 32px;
+    font-family: Roboto;
+}
+
+h3{
+    font-size: 24px;
+    line-height: 32px;
+    font-family: Roboto;
+}
+
+p{
+    font-size: 20px;
+    line-height: 26px;
+    font-family: Roboto;
+}
+
+li{
+    font-family: Roboto;
+}
+
+
+
+ul li{
+    margin: 5px;
+}
+
+ol li{
+    margin: 10px;
+}
+
+.tip{
+    background-color: #def6ed;
+    border-radius: 4px;
+    margin-bottom: 25px;
+}
+
+@font-face {
+    font-family: Roboto;
+    src: url("./fonts/Roboto-Light.ttf");
+}
+
+a{
+    font-size: 30px;
+    border-radius: 20px;
+    background-color: #def6ed;
+    margin: 10px;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  }
